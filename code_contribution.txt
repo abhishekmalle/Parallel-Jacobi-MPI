@@ -1,0 +1,13 @@
+Qi Zheng and Wenqing Shen worked collaboratively on Programming Assignment 3. They equally contributed to the final products of this project.
+
+- Qi Zheng, qzheng61: <50%>
+  Designed the implementation of this project.
+  Implemented transpose_bcast_vector, distributed_matrix_vector_mult, distributed_jacobi, and mpi_matrix_vector_mult functions.
+  Local test of code.
+  Analysed the resutls. Contributed content to the report. 
+
+- Wenqing Shen, wshen35: <50%>
+  Designed the implementation of this project.
+  Implemented distribute_vector, gather_vector, and distribute_matrix functions. 
+  Tested and run codes on cluster, collected data for final report.
+  Plotted figures for reports. Contributed content to the report. 
